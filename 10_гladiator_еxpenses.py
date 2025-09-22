@@ -1,0 +1,5 @@
+number_battles_lost = int(input())
+helmet_price = float(input())
+sword_price = float(input())
+shield_price = float(input())
+armor_price = float(input())
